@@ -1,14 +1,14 @@
 # 🙏 Hi, I'm Niharika
 
-Welcome to my GitHub profile! I'm passionate about coding, open source projects, and building innovative software solutions. Here you'll find a collection of my personal projects, contributions to open source, and more.
+Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and building innovative software solutions. Here you'll find a collection of my projects, contributions to open source, and more.
 
 ## About Me
 <div align="left">
 <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="Profile Image" width="400px" align="right">
 
-  Welcome to my GitHub profile! Here are a few things to know about me:
+Here are a few things to know about me:
 
-🚀 I'm an <b>Aspiring Frontend Developer</b>, fueling the creation of cutting-edge tech.
+🚀 I'm a <b>Frontend Developer at HTS Tech Solutions</b>, fueling the creation of cutting-edge tech.
 
 💻 Passionate about <b>React.js and JavaScript</b>, I'm all about crafting mind-blowing user experiences.
 
